@@ -4,6 +4,16 @@ A sleek and lightweight **QR Code Generator Web App** built with **Flask** and *
 Generate QR codes instantly for any URL and download them in PNG format with a single click.  
 
 ---
+<<<<<<< HEAD
+=======
+## 📷 Screenshots  
+
+### 🔹 Home Page  
+![Home Screenshot](static/screenshot1.png)  
+
+### 🔹 QR Code Generated  
+![QR Screenshot](static/screenshot2.png)  
+>>>>>>> c82db998ccf5a8501b689b706e927939b66ce7a3
 
 ## ✨ Features
 - 🔗 Generate QR codes for any URL  
